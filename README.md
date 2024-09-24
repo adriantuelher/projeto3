@@ -1,6 +1,6 @@
 # Sistema de reservas de sala
 
-O objetivo deste sistema é o cadastro e gerenciamento de eventos para os espaços do Instituto Federal campus Manhuaçu, com a possibilidade de expansão para outras áreas ou unidades. O sistema permitirá a organização eficiente dos eventos, garantindo a disponibilidade dos espaços e evitando conflitos de horários, além de proporcionar ferramentas para filtragem e consulta de eventos e equipamentos.
+Este sistema tem como finalidade o cadastro e gestão de eventos das salas do Instituto Federal campus Manhuaçu, mas pode ser estendido a outras áreas e unidades. Com o desenvolvimento deste sistema, será possível organizar e controlar os eventos de maneira eficaz, assegurando a disponibilidade das salas e evitando picos ou conflitos de horários entre eles. Além de proporcionar ferramentas para filtragem e consulta de eventos e equipamentos.
 
 ## Funcionalidades
 
@@ -27,4 +27,6 @@ O objetivo deste sistema é o cadastro e gerenciamento de eventos para os espaç
 
 ## Instalação
 
-Melhore seus readmes adicionando interações com as **[formatações avançadas.](https://github.com/iuricode/readme-template/tree/main/avancado/readme.md)**
+1. Instale o JDK e o Apache Tomcat
+2. Instale e execute a conexão com o banco de dados.
+3. 
