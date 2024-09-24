@@ -4,9 +4,14 @@ O objetivo deste sistema é o cadastro e gerenciamento de eventos para os espaç
 
 ## Índice
 
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Como Funciona](#como-funciona)
+- [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Instalação e Execução](#instalacao-e-execucao)
-- [Contribuição](#contribuicao)
-- [Licença](#licenca)
+
+## Funcionalidades
+
+Explique aqui os principais aspectos do funcionamento do seu projeto. Exemplo:
+
+1. **Cadastro de Eventos**: Descreva como os usuários podem cadastrar novos eventos.
+2. **Filtragem de Equipamentos**: Explique a funcionalidade de filtragem de equipamentos e eventos.
+3. **Gerenciamento de Conflitos**: Detalhe como o sistema trata conflitos de agendamento.
