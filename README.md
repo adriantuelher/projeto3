@@ -10,8 +10,18 @@ O objetivo deste sistema é o cadastro e gerenciamento de eventos para os espaç
 
 ## Funcionalidades
 
-Explique aqui os principais aspectos do funcionamento do seu projeto. Exemplo:
+1. **Cadastro de Usuario**: Permite cadastro de usuarios, com diferentes tipos e níveis, sendo o nível 1 o mais alto, permitindo ter acesso a mais funcionalidades.
+2. **Cadastro de Eventos**: Permite a organização e o planejamento de eventos, com uma interface para o preenchimento de detalhes como data, local e o tipo de evento.
+3. **Cadastro de Unidade**: Permite cadastro de unidades de uma instituição, mas apenas usuarios de nível 1 podem cadastrar, editar ou excluir.
+4. **Cadastro de Bloco**: Permite cadastro de blocos de uma instituição, mas apenas usuarios de nível 1 podem cadastrar, editar ou excluir.
+5. **Cadastro de Espaços**: Permite cadastro de espaços de uma instituição, mas apenas usuarios de nível 1 podem cadastrar, editar ou excluir.
+6. **Vizualizar Equipamentos e Plantas**: Permite que o usuario vizualize todos os equipamentos que existem em um espaço, além de também poder vizualizar plantas ultilizadas em pesquisas e projetos.
+7. **Vizualizar Espaços Diponiveis**: Permite que o usuario vizualize todos os espaços que existem e etão disponiveis para futuros eventos.
 
-1. **Cadastro de Eventos**: Descreva como os usuários podem cadastrar novos eventos.
-2. **Filtragem de Equipamentos**: Explique a funcionalidade de filtragem de equipamentos e eventos.
-3. **Gerenciamento de Conflitos**: Detalhe como o sistema trata conflitos de agendamento.
+## Tecnologias Utilizadas
+
+- Java
+- Booststrap
+- Eclipse IDE for Enterprise Java and Web Developers
+- MySQL
+
