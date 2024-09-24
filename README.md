@@ -27,6 +27,8 @@ Este sistema tem como finalidade o cadastro e gestão de eventos das salas do In
 
 ## Instalação
 
-1. Instale o JDK e o Apache Tomcat
-2. Instale e execute a conexão com o banco de dados.
-3. 
+1. Instale o JDK e o server Apache Tomcat
+2. Instale e execute o arquivo Dump20240923.sql que está no repositório para gerar as tabelas do sistema.
+3. O arquivo acima irá gerar um usuário padrão root, com a senha 1234.
+4. Rode a aplicação via Eclipse ou outra IDE que suporte aplicações Web em Java.
+5. A aplicação é executada na porta padrão http://localhost:8080 e genericamente está disponível em http://localhost:8080/atividades
